@@ -1,0 +1,5 @@
+
+M  G  L  S  D  G  E  W  Q  L  V  L  N  V  W  G  K  V  E  A  D  I  P  G  H  G  Q  E  V  L  I  R  L  F  K  G  H  P  E  T  L  E  K  F  D  K  F  K  H  L  K  S  E  D  E  M  K  A  S  E  D  L  K  K  H  G  A  T  V  L  T  A  L  G  G  I  L  K  K  K  G  H  H  E  A  E  I  K  P  L  A  Q  S  H  A  T  K  H  K  I  P  V  K  Y  L  E  F  I  S  E  C  I  I  Q  V  L  Q  S  K  H  P  G  D  F  G  A  D  A  Q  G  A  M  N  K  A  L  E  L  F  R  K  D  M  A  S  N  Y  K  E  L  G  F  Q  G  
+M  G  L  S  D  Q  E  W  Q  Q  V  L  T  I  W  G  K  V  E  A  D  I  A  G  H  G  H  E  V  L  M  R  L  F  H  D  H  P  E  T  L  D  R  F  D  K  F  K  G  L  K  T  P  D  Q  M  K  G  S  E  D  L  K  K  H  G  A  T  V  L  T  Q  L  G  K  I  L  K  Q  K  G  N  H  E  S  E  L  K  P  L  A  Q  T  H  A  T  K  H  K  I  P  V  K  Y  L  E  F  I  S  E  V  I  I  K  V  I  A  E  K  H  A  A  D  F  G  A  D  S  Q  A  A  M  K  K  A  L  E  L  F  R  N  D  M  A  S  K  Y  K  E  F  G  F  Q  G  
+Matches: 118  Mismatches: 36  Gaps: 0
+Alignment Score: 46
